@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] Emulator config file set to C:\Users\ahmad\source\repos\lab-3-backend\lab-3-backend\csx\Release\roles\FRS_WorkerRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] DiagnosticsStoreRootPath set to: C:\Users\ahmad\AppData\Local\dftmp\Resources\0a7a162c-5048-4dff-8ae0-87d815eca143
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] Loading config file: C:\Users\ahmad\source\repos\lab-3-backend\lab-3-backend\csx\Release\roles\FRS_WorkerRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] Config file to read: C:\Users\ahmad\source\repos\lab-3-backend\lab-3-backend\csx\Release\roles\FRS_WorkerRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] Emulator config file set to C:\Users\ahmad\source\repos\lab-3-backend\lab-3-backend\csx\Release\roles\FRS_WorkerRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [11/05/2020 11:38:52] Resetting DiagnosticPlugin

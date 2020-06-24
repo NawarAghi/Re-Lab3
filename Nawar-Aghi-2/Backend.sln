@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "Backend", "lab-3-backend\Backend.ccproj", "{AB9D3E8E-158F-471E-AA3E-07366FE13A4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FRS_WorkerRole", "FRS_WorkerRole\FRS_WorkerRole.csproj", "{46419B75-5E98-46C1-BB14-AB89964A41DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{908FDC5C-67F7-4320-8036-BAE644D78985}"
+	ProjectSection(SolutionItems) = preProject
+		MySql.Data.dll = MySql.Data.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9D3E8E-158F-471E-AA3E-07366FE13A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9D3E8E-158F-471E-AA3E-07366FE13A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9D3E8E-158F-471E-AA3E-07366FE13A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9D3E8E-158F-471E-AA3E-07366FE13A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46419B75-5E98-46C1-BB14-AB89964A41DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46419B75-5E98-46C1-BB14-AB89964A41DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46419B75-5E98-46C1-BB14-AB89964A41DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46419B75-5E98-46C1-BB14-AB89964A41DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D8BCFBC-68B8-4FA6-90A2-C3706EB9B0E7}
+	EndGlobalSection
+EndGlobal
